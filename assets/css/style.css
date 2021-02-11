@@ -1,0 +1,16 @@
+
+.card {
+    padding: 0.1%; border-color: black
+    ;
+}
+
+body{
+
+    background-color: black;
+}
+
+@media (max-width: 760px) {
+    .ocultar-en-movil{
+    display: none!important;
+    }
+    }
